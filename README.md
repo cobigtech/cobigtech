@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @cobigtech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img align="left" src="/Assets_Used/flowers.gif" width="13.2%" style="display:inline; z-index: 999; position: relative; margin-left: 10px;">
 
-<!---
-cobigtech/cobigtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" src="/Assets_Used/flowers.gif" width="13%" style="display:inline; z-index: 999; position: relative;">
+
+<div align="center">
+  <h1>
+    <a href="https://github.com/UjjwalSaini07">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=EBA60E&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+Ujjwal+Saini+😊" alt="Ujjwal Hii" />
+    </a>
+  </h1>
+</div>
