@@ -9,3 +9,8 @@
     </a>
   </h1>
 </div>
+
+<p  align="top">
+ <img src="https://github.com/RSN601KRI/RSN601KRI/assets/106860359/200a0395-ff26-4504-818c-73c4fe4dfd96" width="250" height="270" style="border-radius: 20px;"  alt="Roshni's Dev Card"/>
+ <img src="https://github.com/RSN601KRI/RSN601KRI/assets/106860359/dbfd9e2e-25e8-41c9-8529-898625f283fc" width="250" height="270" style="border-radius: 20px;"  alt="Roshni's Dev Card"/>
+</p>
